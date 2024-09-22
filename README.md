@@ -12,3 +12,4 @@
 - jest
 - thunk
 # covid-map
+![covid-map](https://github.com/user-attachments/assets/5105d70f-9c4e-41ee-9932-f42404b0bd98)
